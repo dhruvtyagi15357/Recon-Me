@@ -1,4 +1,4 @@
-# 3klCon Project v1.0
+<!-- # 3klCon Project v1.0 -->
 
 ## Description
 Full Automation Recon tool which works with Small and Medium scopes. 
@@ -7,7 +7,7 @@ Full Automation Recon tool which works with Small and Medium scopes.
 
 **So, Welcome and let's deep into it <3**
 
-![Welcome](Welcome.png)
+<!-- ![Welcome](Welcome.png) -->
 
 
 ----------------------------------------
